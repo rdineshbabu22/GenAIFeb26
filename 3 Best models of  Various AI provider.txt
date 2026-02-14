@@ -15,6 +15,15 @@
 ---> Qwen3-Coder
 
 
+Moderations model in groq
+
+---> GPT‑OSS‑Safeguard 20B
+---> Llama Prompt Guard 2 (86M)
+---> Llama Prompt Guard 2 (22M)
+--->
+
+
+
 
 
 
