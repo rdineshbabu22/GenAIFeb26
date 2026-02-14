@@ -1,0 +1,23 @@
+3 Best models of open AI 
+
+---> GPT-4 / GPT-4.1 / GPT-5 Series
+---> Codex
+---> DALL-E Series (DALL-E & DALL-E 3)
+
+3 best models from claude
+---> claude opus 4.6
+---> claude sonnet 4.5
+---> calude haiku 4.5
+
+3 best models from qwen
+---> Qwen3-Omni
+---> Qwen3-235B-A22B
+---> Qwen3-Coder
+
+
+
+
+
+
+
+
